@@ -21,7 +21,7 @@ Este proyecto se basa en la utilización de datos provenientes de la API de aves
 - Herramienta de visualización de datos: Power BI
   
 ### Estructura del Proyecto :open_file_folder:
-- aves.csv: Script de Python para consumir la API y generar el archivo CSV.
+- aves.ipynb: Script de Python para consumir la API y generar el archivo CSV.
 - info_aves.csv: Archivo CSV con los datos extraídos de la API.
 - aves.pbix: Reporte de Power BI basado en los datos extraídos.
   
