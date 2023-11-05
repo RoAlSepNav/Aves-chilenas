@@ -1,6 +1,6 @@
 # Aves_chilenas
 
-<img src="https://aves.ninjas.cl//api//site//assets//files//3355//31082018111212chirigue_dorado_macho_marcos_baumann_web.jpg">
+<img src="https://www.redobservadores.cl/wp-content/uploads/2018/04/dorado_portada-Ivo-Tejeda-1180x652.jpg">
 
 ## Tabla de contenidos
 
