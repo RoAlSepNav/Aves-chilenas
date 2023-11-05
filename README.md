@@ -8,7 +8,6 @@
 2. [Herramientas Utilizadas](#herramientas-utilizadas-wrench)
 3. [Estructura del Proyecto](#estructura-del-proyecto-open_file_folder)
 4. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
-5. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
 
 
 ### Descripción del Proyecto :clipboard:
@@ -26,24 +25,14 @@ Este proyecto se basa en la utilización de datos provenientes de la API de aves
 - info_aves.csv: Archivo CSV con los datos extraídos de la API.
 - aves.pbix: Reporte de Power BI basado en los datos extraídos.
   
-### Cómo usar este proyecto :question:
-1. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/titanic/data
-2. Coloca los archivos CSV descargados (anime.csv, rating.csv) en la misma carpeta que este proyecto.
-3. Abre el Jupyter notebook recomendador_anime.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos. En la parte final se encuentra la función que permite realizar la recomendación de anime.
-
 
 ### Cómo usar este proyecto :question:
 Para utilizar este proyecto, sigue estos pasos:
 1. Asegúrate de tener instalado Python 3.9.17 en tu sistema.
 2. Clona o descarga este repositorio en tu máquina local.
 3. Ejecuta el script `aves.csv` para consumir la API de aves chilenas y generar el archivo `info_aves.csv` con los datos extraídos. Puedes hacerlo mediante el siguiente comando:
-
    ```bash
    python aves.py
+4. Una vez que se ha generado el archivo info_aves.csv, puedes utilizarlo en Power BI para crear visualizaciones y análisis. Abre el archivo aves.pbix con Power BI y carga el archivo CSV como fuente de datos.
+5. Explora el reporte generado en Power BI para identificar y estudiar las aves chilenas utilizando las herramientas de visualización y análisis disponibles.
 
-
-
-### Contenido del Jupyter notebook :page_facing_up:
-- Exploración básica de datos
-- Preprocesamiento de datos
-- Modelado
